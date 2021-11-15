@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-A 23 years old self-taught DevOps &  from Iraq
+A 23 years old self-taught DevOps  from Iraq
 </p>
 
 <br/> 
